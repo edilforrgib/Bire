@@ -230,32 +230,26 @@ opacity:.8;
 
 <section class="contact">
 
-<h2>📞 Order Now</h2>
+<section class="contact">
 
-<p>☎️ 0920300011 / 0991109365</p>
+<h2>📦 Order Now</h2>
 
 <p>🚖 በፍጥነት ይዘዙን ባሉበት ቦታ ያለምንም ተጨማሪ ክፍያ እናደርሳለን</p>
 
-<p>📲 Telegram: @Nigatmelody</p>
+<div class="order-buttons">
 
-<p>🏢 አድራሻ : ኮልፌ 18 አጠናተራ ፊሊጶስ ቤተክርስቲያን ዝቅ ብሎ</p>
+<a href="https://t.me/Nigatmelody" target="_blank">
+<button class="telegram">📲 Order on Telegram</button>
+</a>
 
-<button onclick="window.location.href='tel:0920300011'">
+<a href="tel:0920300011">
+<button class="call">📞 Call Now</button>
+</a>
 
-Order Now
-
-</button>
-
-</section>
-
-
-<footer>
-
-© 2026 ንጋት የዜማ መሳሪያዎች
-
-</footer>
+<a href="https://wa.me/251920300011" target="_blank">
+<button class="whatsapp">💬 Order on WhatsApp</button>
+</a>
 
 </div>
 
-</body>
-</html>
+</section>
